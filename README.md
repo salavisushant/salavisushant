@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salavisushant&label=Profile%20views&color=0e75b6&style=flat" alt="salavisushant" /> </p>
 
-<h3 align="center">🌱  I have always been curious about technology, even as a child. I spent a lot of time around computers and that made me even more curious. Once I graduated in automobile engineering, I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
+<h3 align="center">🌱  I have always been curious about technology, even as a child. I spent a lot of time around computers and that made me even more curious. Once I graduated in engineering, I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
 
 - 📫 How to reach me **salavisush88@gmail.com**
 
