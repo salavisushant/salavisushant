@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **salavisush88@gmail.com**
 - 🚀 My Portfolio **https://sushantsalavi.vercel.app/**
-- 👨‍💻 See My work on  ***[My Github Repositories](https://github.com/salavisushant?tab=repositories)***
+- 👨‍💻 See My work on  ***[Github Repositories](https://github.com/salavisushant?tab=repositories)***
 - 🌱 I am also interested in Sketching and Photography.
 
 <h3 align="left">Connect with me:</h3>
