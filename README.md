@@ -1,5 +1,5 @@
 <h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>, I'm Sushant Salavi</h1>
-<img  align="center"  src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" />
+<img  align="center"  src="https://i.imgur.com/iXuL1HG.png" />
 
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
