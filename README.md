@@ -1,5 +1,5 @@
 <h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>, I'm Sushant Salavi</h1>
-<p align="center"><a href="#"><img style="margin-left:30%" width="40%" align="center" height="auto" src="https://user-images.githubusercontent.com/87421852/152938064-4452209e-adf1-4c61-a18d-09b5904cf941.png" height="175px"/></a></p>
+<p align="center"><a href="#"><img style="margin-left:30%" width="50%" align="center" height="auto" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" height="175px"/></a></p>
 
 <h2 align="center">I am a Full Stack Web Developer</h2>
 
