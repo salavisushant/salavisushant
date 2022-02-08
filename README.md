@@ -1,7 +1,7 @@
 <h1 align="center">Hi <span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>, I'm Sushant Salavi</h1>
-<p align="center"><a href="#"><img style="margin-left:30%" width="40%" align="center" height="auto" src="https://github.com/himrd95/portfolio/blob/main/public/developer.gif?raw=true" height="175px"/></a></p>
+<p align="center"><a href="#"><img style="margin-left:30%" width="40%" align="center" height="auto" src="https://user-images.githubusercontent.com/87421852/152938064-4452209e-adf1-4c61-a18d-09b5904cf941.png" height="175px"/></a></p>
 
-<h3 align="center">I am a Full Stack Web Developer</h3>
+<h2 align="center">I am a Full Stack Web Developer</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salavisushant&label=Profile%20views&color=0e75b6&style=flat" alt="salavisushant" /> </p>
