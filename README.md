@@ -48,26 +48,19 @@
     <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/salavisushant/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aakash Naykude's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salavisushant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 </br>
 
 ## 📊 My Github Stats
 
  <br/>
-    <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Aakash Naykude's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=salavisushant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salavisushant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Sushannt Salavi's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=salavisushant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Sushannt Salavi's Top Languages" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salavisushant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 <br/>
 
 </br>
-
-<a href="https://github.com/salavisushant/github-readme-activity-graph"><img alt="Sushannt Salavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salavisushant&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
