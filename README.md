@@ -55,7 +55,7 @@
 
  <br/>
     <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Sushannt Salavi's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=salavisushant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Sushannt Salavi's Top Languages" style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salavisushant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 
 
 <br/>
